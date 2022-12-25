@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Entrada de dados\Entrada de dados\bin\Debug\Entrada de dados.exe.config
+C:\Users\Usuario\Documents\Entrada de dados\Entrada de dados\bin\Debug\Entrada de dados.exe
+C:\Users\Usuario\Documents\Entrada de dados\Entrada de dados\bin\Debug\Entrada de dados.pdb
+C:\Users\Usuario\Documents\Entrada de dados\Entrada de dados\obj\Debug\Entrada de dados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Entrada de dados\Entrada de dados\obj\Debug\Entrada de dados.exe
+C:\Users\Usuario\Documents\Entrada de dados\Entrada de dados\obj\Debug\Entrada de dados.pdb
+C:\Users\Usuario\Documents\Entrada de dados\Entrada de dados\obj\Debug\Entrada de dados.csprojResolveAssemblyReference.cache
